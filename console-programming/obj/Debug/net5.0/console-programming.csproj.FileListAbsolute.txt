@@ -1,0 +1,16 @@
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\bin\Debug\net5.0\console-programming.exe
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\bin\Debug\net5.0\console-programming.deps.json
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.json
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.dev.json
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\bin\Debug\net5.0\console-programming.dll
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\bin\Debug\net5.0\console-programming.pdb
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\console-programming.csproj.AssemblyReference.cache
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfoInputs.cache
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfo.cs
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\console-programming.csproj.CoreCompileInputs.cache
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\console-programming.dll
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\refint\console-programming.dll
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\console-programming.pdb
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\console-programming.genruntimeconfig.cache
+C:\Users\reisd\Desktop\to be developer\cs\console-programming\obj\Debug\net5.0\ref\console-programming.dll
