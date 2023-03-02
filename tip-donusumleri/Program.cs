@@ -6,10 +6,7 @@ namespace tip_donusumleri
     {
         public static void Main(string[] args)
         {
-            DateTime dt = DateTime.Now;
-            string datetime1 = DateTime.Now.ToString("dd.MM.yyyy");
-            Console.WriteLine(dt);
-            Console.WriteLine(datetime1);
+            
         }
     }
 }
